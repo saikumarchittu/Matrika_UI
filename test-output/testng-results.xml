@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T17:07:00 IST" name="Default suite" finished-at="2024-07-22T17:09:16 IST" duration-ms="135799">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T17:07:00 IST" name="Default test" finished-at="2024-07-22T17:09:16 IST" duration-ms="135799">
+      <class name="Matrika.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Matrika.Login@4b013c76]" started-at="2024-07-22T17:07:00 IST" name="setup" finished-at="2024-07-22T17:07:15 IST" duration-ms="14586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginOperation()[pri:0, instance:Matrika.Login@4b013c76]" started-at="2024-07-22T17:07:15 IST" name="LoginOperation" finished-at="2024-07-22T17:09:16 IST" duration-ms="121131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginOperation -->
+      </class> <!-- Matrika.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
